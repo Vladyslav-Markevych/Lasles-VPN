@@ -30,10 +30,6 @@ header {
   gap: 150px;
 }
 
-.header__logo {
-  width: 149px;
-}
-
 nav {
   display: flex;
   justify-content: space-between;
