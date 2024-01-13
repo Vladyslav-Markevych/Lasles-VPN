@@ -20,6 +20,7 @@ h6 {
 h1 {
   color: #0b132a;
   font-weight: 700;
+  /* text-shadow */
   text-shadow: 2px 2px 4px #000000;
 }
 
@@ -32,6 +33,7 @@ header {
   gap: 150px;
 }
 
+/* keyframe */
 @keyframes header-logo {
   0% {
     transform: translateY(0);
@@ -134,6 +136,7 @@ h1 {
   line-height: 25px; /* 156.25% */
   border: 0px;
   margin-top: 30px;
+  /* transition */
   transition: width 0.3s ease-in-out;
 }
 
@@ -217,6 +220,7 @@ h2 {
   font-size: 35px;
   font-weight: 500;
   line-height: 50px; /* 142.857% */
+  /* filter */
   filter: blur(1px) brightness(50%);
 }
 
@@ -294,6 +298,7 @@ h3 {
   margin: 60px 25px;
   padding-top: 79px;
   padding-bottom: 50px;
+  /* box-shadow */
   box-shadow: 5px 5px 20px #4f5665;
 }
 
